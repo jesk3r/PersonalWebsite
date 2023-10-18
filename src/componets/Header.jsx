@@ -3,7 +3,7 @@ export default function AboutPage() {
   return (
 
     <header className="container">
-      <h1 className="d-inline text-danger">DHEERAJ</h1>
+      <h1 className="d-inline text-danger">DHEERAJ THIND</h1>
       <nav className="d-inline"> 
         <ul className="list-inline">
           <li className="d-inline m-2"><a href="/">About Me</a></li>

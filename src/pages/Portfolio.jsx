@@ -1,7 +1,7 @@
 import { useRouteError } from 'react-router-dom';
 
 import TCG from '../assets/TCG.png'
-import CAC from '../assets/Cac.png'
+import CAC from '../assets/CaC.png'
 import NoteHub from '../assets/NoteHub.png'
 import SVGForge from '../assets/SVGForge.png'
 // import CAC from '../../public/CAC.png'
