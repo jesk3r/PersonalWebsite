@@ -6,7 +6,7 @@ export default function AboutPage() {
       <h1 className="d-inline text-danger">DHEERAJ</h1>
       <nav className="d-inline"> 
         <ul className="list-inline">
-          <li className="d-inline m-2"><a href="/aboutme">About Me</a></li>
+          <li className="d-inline m-2"><a href="/">About Me</a></li>
           <li className="d-inline m-2"><a href="/portfolio">Portfolio</a></li>
           <li className="d-inline m-2"><a href="/contact">Contact</a></li>
           <li className="d-inline m-2-"><a href="/resume">Resume</a></li>
